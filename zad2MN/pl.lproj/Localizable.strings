@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  zad2MN
+
+  Created by student on 08/11/2021.
+  Copyright © 2021 aplikacja. All rights reserved.
+*/
+"Information"="Informacje";
+"The faculty is running %i programs on graduate and undergraduate level."="Wydzial prowadzi %i programow na poziomie absolwentow i studentow";
+"image"="wi-pl";
+
